@@ -1,0 +1,1048 @@
+.ul1 {
+    padding-top: 20px;
+}
+.a1 {
+    width: 100px;
+}
+
+li  {
+    display: inline-block;
+}
+
+.a2 {
+        position: absolute;
+        top: 40px;
+        left: 200px;
+        font-size: 17px;
+}
+
+.a3 {
+    position: absolute;
+    top: 40px;
+    left: 300px;
+    font-size: 17px;
+}
+
+.a4 {
+    position: absolute;
+    top: 40px;
+    left: 400px;
+    font-size: 17px;
+}
+
+.a5 {
+    position: absolute;
+    top: 40px;
+    left: 530px;
+    font-size: 17px;
+}
+
+#a6 {
+    position: absolute;
+    top: 40px;
+    left: 1000px;
+    background-image: url(https://uxwing.com/wp-content/themes/uxwing/download/user-interface/search-icon.png);
+    background-size: 15px;
+    background-repeat: no-repeat;
+    background-position: right;
+}
+
+.a6 {
+    position: absolute;
+    font-size: 17px;
+    top: 40px;
+    left: 1300px;
+}
+
+.a7 {
+    background-color:yellowgreen;
+    color: aliceblue;
+    font-size: 17px;
+    width: 100px;
+    height: 30px;
+    border: 1px;
+    border-radius: 15px;
+    position: absolute;
+    top: 35px;
+    left: 1370px;
+}
+
+.a8{
+    padding-left: 20px;
+}
+
+.a9{
+    position: absolute;
+    top: 90px;
+    left: 150px;
+}
+.a10{
+    font-size: 75px;
+    font-weight: 600;
+    color: rgb(4, 158, 4);
+    
+}
+.a11{
+    font-size: 28px;
+    position: absolute;
+    top: 230px;
+    left: 0px;
+    width: 600px;
+}
+.a12{
+    position: absolute;
+    top: 360px;
+    left: 0px;
+    width: 150px;
+    height: 50px;
+    font-size: 17px;
+    background-color:rgb(4, 158, 4);
+    color: white;
+    border-radius: 30px;
+    border: 0;
+}
+.a13{
+    color: grey;
+    position: absolute;
+    top: 450px;
+    left: 00px;
+    font-size: 18px;
+}
+.a14{
+    position: absolute;
+    top: 500px;
+    left: 0px;
+    width: 110px;
+}
+.a15{
+    position: absolute;
+    top: 498px;
+    left: 130px;
+    width: 100px;
+}
+.a16{
+    position: absolute;
+    top: 498px;
+    left: 260px;
+    width: 60px;
+}
+.a17{
+    position: absolute;
+    top: 200px;
+    left: 850px;
+}
+.a18{
+    position: absolute;
+    top: 750px;
+    left: 150px;
+    font-size: 40px;
+}
+.a19{
+    position: absolute;
+    top: 830px;
+    left: 150px;
+    color:rgb(41, 88, 3);
+    font-size: 18px;
+}
+
+.a20{
+    position: absolute;
+    top: 900px;
+    left: 150px;
+    width: 300px;
+    height: 150px;
+    background-color: rgb(209, 253, 206);
+    border-radius: 8px;
+}
+
+.a20:hover{
+    background-color: rgb(104, 248, 104);
+}
+
+.a21{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 30px;
+    padding-top: 5px;
+}
+
+.a22{
+    font-size: 17px;
+    position: absolute;
+    top: 70px;
+    left: 30px;
+}
+
+.a23{
+    font-size: 17px;
+    position: absolute;
+    top: 70px;
+    left: 170px;
+}
+
+.a24{
+    position: absolute;
+    top: 900px;
+    left: 470px;
+    width: 300px;
+    height: 150px;
+    background-color: rgb(209, 253, 206);
+    border-radius: 8px;
+}
+
+.a24:hover{
+    background-color: rgb(104, 248, 104);
+}
+
+.a25{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 30px;
+    padding-top: 5px;
+}
+
+.a26{
+    font-size: 17px;
+    position: absolute;
+    top: 70px;
+    left: 30px;
+}
+
+.a27{
+    font-size: 17px;
+    position: absolute;
+    top: 70px;
+    left: 170px;
+}
+
+.a28{
+    position: absolute;
+    top: 900px;
+    left: 790px;
+    width: 300px;
+    height: 150px;
+    background-color: rgb(209, 253, 206);
+    border-radius: 8px;
+}
+
+.a28:hover{
+    background-color: rgb(104, 248, 104);
+}
+
+.a29{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 30px;
+    padding-top: 5px;
+}
+
+.a30{
+    font-size: 17px;
+    position: absolute;
+    top: 70px;
+    left: 30px;
+}
+
+.a31{
+    font-size: 17px;
+    position: absolute;
+    top: 70px;
+    left: 170px;
+}
+.a32{
+    position: absolute;
+    top: 900px;
+    left: 1110px;
+    width: 300px;
+    height: 150px;
+    background-color: rgb(209, 253, 206);
+    border-radius: 8px;
+}
+
+.a32:hover{
+    background-color: rgb(104, 248, 104);
+}
+
+.a33{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 30px;
+    padding-top: 5px;
+}
+
+.a34{
+    font-size: 17px;
+    position: absolute;
+    top: 70px;
+    left: 30px;
+}
+
+.a35{
+    font-size: 17px;
+    position: absolute;
+    top: 70px;
+    left: 170px;
+}
+
+.a36{
+    position: absolute;
+    top: 1070px;
+    left: 150px;
+    width: 300px;
+    height: 150px;
+    background-color: rgb(209, 253, 206);
+    border-radius: 8px;
+}
+
+.a36:hover{
+    background-color: rgb(104, 248, 104);
+}
+
+.a37{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 30px;
+    padding-top: 5px;
+}
+
+.a38{
+    font-size: 17px;
+    position: absolute;
+    top: 90px;
+    left: 30px;
+}
+
+.a39{
+    font-size: 17px;
+    position: absolute;
+    top: 90px;
+    left: 170px;
+}
+
+.a40{
+    position: absolute;
+    top: 1070px;
+    left: 470px;
+    width: 300px;
+    height: 150px;
+    background-color: rgb(209, 253, 206);
+    border-radius: 8px;
+}
+
+.a40:hover{
+    background-color: rgb(104, 248, 104);
+}
+
+.a41{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 30px;
+    padding-top: 5px;
+}
+
+.a42{
+    font-size: 17px;
+    position: absolute;
+    top: 90px;
+    left: 30px;
+}
+
+.a43{
+    font-size: 17px;
+    position: absolute;
+    top: 90px;
+    left: 170px;
+}
+
+.a44{
+    position: absolute;
+    top: 1070px;
+    left: 790px;
+    width: 300px;
+    height: 150px;
+    background-color: rgb(209, 253, 206);
+    border-radius: 8px;
+}
+
+.a44:hover{
+    background-color: rgb(104, 248, 104);
+}
+
+.a45{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 30px;
+    padding-top: 5px;
+}
+
+.a46{
+    font-size: 17px;
+    position: absolute;
+    top: 90px;
+    left: 30px;
+}
+
+.a47{
+    font-size: 17px;
+    position: absolute;
+    top: 90px;
+    left: 170px;
+}
+
+.a48{
+    position: absolute;
+    top: 1070px;
+    left: 1110px;
+    width: 300px;
+    height: 150px;
+    background-color: rgb(209, 253, 206);
+    border-radius: 8px;
+}
+
+.a48:hover{
+    background-color: rgb(104, 248, 104);
+}
+.a49{
+    font-size: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    padding-left: 30px;
+    padding-top: 5px;
+}
+
+.a50{
+    font-size: 17px;
+    position: absolute;
+    top: 90px;
+    left: 30px;
+}
+
+.a51{
+    font-size: 17px;
+    position: absolute;
+    top: 90px;
+    left: 170px;
+}
+.a52{
+    position: absolute;
+    top: 1300px;
+    left: 150px;
+    background-color: rgb(87, 87, 88);
+    width: 1250px;
+    height: 600px;
+    border-radius: 8px;
+}
+.a53{
+    position: absolute;
+    top: 0px;
+    left: 750px;
+    background-color: black;
+    width: 500px;
+    height: 600px;
+    border-top-right-radius: 8px;
+    border-bottom-right-radius:8px ;
+}
+.a54{
+    font-size: 25px;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    position: absolute;
+    top: 10px;
+    left: 30px;
+}
+
+.a55{
+    font-size: 50px;
+    font-weight: 600;
+    font-family:'Times New Roman', Times, serif;
+    color: white;
+    position: absolute;
+    top: 20px;
+    left: 30px;
+}
+
+.a56{
+    font-size: 55px;
+    font-weight: 600;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(250, 250, 179);
+    position: absolute;
+    top: 55px;
+    left: 30px;
+}
+
+.a57{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+    position: absolute;
+    top: 230px;
+    left: 30px;
+}
+
+.a58{
+    position: absolute;
+    top: 320px;
+    left: 30px;
+    width: 600px;
+    height: 100px;
+}
+
+.a59{
+    font-size: 18px;
+    font-weight: 400;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: white;
+}
+
+.a60{
+    width:180px;
+    height: 50px;
+    font-size: 18px;
+    color: rgb(87, 87, 88);
+    background-color: white;
+    border-radius: 30px;
+    position: absolute;
+    top: 1800px;
+    left: 200px;
+    border: 0;
+}
+.a61{
+    position: absolute;
+    top: 1980px;
+    left: 150px;
+}
+.a62{
+    width: 1250px;
+    height: 600px;
+    border-radius: 10px;
+}
+.a63{
+    position: absolute;
+    top: 5px;
+    left: 30px;
+    font-size: 25px;
+    font-weight: 500;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.a64{
+    font-size: 55px;
+    font-weight: 600;
+    font-family:'Times New Roman', Times, serif;
+    color: rgb(171, 181, 108);
+    position: absolute;
+    top: 90px;
+    left: 30px;
+}
+
+.a65{
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: rgb(171, 181, 108);
+    position: absolute;
+    top: 280px;
+    left: 30px;
+}
+.a66{
+    position: absolute;
+    top: 2400px;
+    left: 190px;
+    width: 350px;
+    height: 150px;
+    background-color: rgb(135, 162, 28);
+    border-radius: 10px;
+}
+.a67{
+    position: absolute;
+    top:-20px;
+    left:20px;
+    font-size: 35px;
+    line-height:30px ;
+    color: white;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.a68{
+    position: absolute;
+    top:80px;
+    left:20px;
+    font-size: 20px;
+    line-height:30px ;
+    color: white;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.a69{
+    color: white;
+    font-size: 10px;
+}
+.a70{
+    position: absolute;
+    top: 2400px;
+    left: 595px;
+    width: 350px;
+    height: 150px;
+    background-color: rgb(135, 162, 28);
+    border-radius: 10px;
+}
+.a71{
+    position: absolute;
+    top:-20px;
+    left:20px;
+    font-size: 35px;
+    line-height:30px ;
+    color: white;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.a72{
+    position: absolute;
+    top:80px;
+    left:20px;
+    font-size: 20px;
+    line-height:30px ;
+    color: white;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.a73{
+    position: absolute;
+    top: 2400px;
+    left: 1000px;
+    width: 350px;
+    height: 150px;
+    background-color: rgb(135, 162, 28);
+    border-radius: 10px;
+}
+.a74{
+    position: absolute;
+    top:-20px;
+    left:20px;
+    font-size: 35px;
+    line-height:30px ;
+    color: white;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.a75{
+    position: absolute;
+    top:80px;
+    left:20px;
+    font-size: 20px;
+    line-height:30px ;
+    color: white;
+    font-weight: 500;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.a76{
+    position: absolute;
+    top: 2650px;
+    left: 150px;
+    height: 600px;
+    width: 800px;
+    background-color: rgb(220, 221, 222);
+}
+
+.a77{
+    font-size: 60px;
+    font-weight: 600;
+    margin-top: 50px;
+    padding-left: 50px;
+}
+
+.a78{
+    font-size: 35px;
+    font-weight: 400;
+    margin-top: -30px;
+    padding-left: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.a79{
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: -30px;
+    padding-left: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.a80{
+    font-size: 35px;
+    font-weight: 400;
+    margin-top: 0px;
+    padding-left: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.a81{
+    position: absolute;
+    top: 2650px;
+    left: 980px;
+    height: 600px;
+    width: 420px;
+    background-color: rgb(135, 162, 28);
+}
+
+.a82{
+    position: absolute;
+    top: 200px;
+    left: 60px;
+    font-size: 35px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 500;
+}
+
+.a83{
+    position: absolute;
+    top: 350px;
+    left: 60px;
+    font-size: 40px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.a84{
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 450px;
+    padding-left: 60px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.a85{
+    position: absolute;
+    top:450px;
+    left: 60px;
+    font-size: 40px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.a86{
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 80px;
+    padding-left: 60px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.a87{
+    position: absolute;
+    top:2600px;
+    left: 720px;
+    height: 700px;
+}
+
+.a88{
+    position: absolute;
+    top:3250px;
+    left: 150px;
+    font-size: 60px;
+    font-weight: 520;
+}
+
+.a89{
+    position: absolute;
+    top: 4100px;
+    left: 150px;
+    width: 1250px;
+    height: 250px;
+    border-radius: 10px;
+    background-color: rgb(222, 225, 225);
+}
+.a90{
+    position: absolute;
+    top: 3500px;
+    left: 180px;
+    width: 550px;
+    height: 500px;
+    background-color: rgb(184, 38, 6);
+    border-radius: 10px;
+}
+
+.a91{
+    position: absolute;
+    top:50px;
+    left: 50px;
+    width: 150px;
+}
+.a92{
+    font-size: 30px;
+    color: white;
+    margin-top: 120px;
+    padding-left: 20px;
+}
+
+.a93{
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 90px;
+    padding-left: 30px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.a94{
+    font-size: 30px;
+    color: white;
+    margin-left: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.a95{
+    font-size: 30px;
+    color: white;
+    margin-left: 300px;
+    margin-top: -60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.a96{
+    font-size: 18px;
+    color: white;
+    margin-left:20px;
+    margin-top: -20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.a97{
+    font-size: 18px;
+    color: white;
+    margin-left:300px;
+    margin-top: -40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.a98{
+    position: absolute;
+    top: 3500px;
+    left: 790px;
+    width: 550px;
+    height: 500px;
+    background-color: rgb(79, 77, 78);
+    border-radius: 10px;
+}
+
+.a99{
+    position: absolute;
+    top:50px;
+    left: 50px;
+    width: 150px;
+}
+.a100{
+    font-size: 30px;
+    color: white;
+    margin-top: 120px;
+    padding-left: 20px;
+}
+
+.b1{
+    font-size: 20px;
+    font-weight: 400;
+    margin-top: 90px;
+    padding-left: 30px;
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.b2{
+    font-size: 30px;
+    color: white;
+    margin-left: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.b3{
+    font-size: 30px;
+    color: white;
+    margin-left: 300px;
+    margin-top: -60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.b4{
+    font-size: 18px;
+    color: white;
+    margin-left:20px;
+    margin-top: -20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.b5{
+    font-size: 18px;
+    color: white;
+    margin-left:300px;
+    margin-top: -40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.b6{
+    font-size: 35px;
+    color: black;
+    margin-left: 30px;
+
+}
+.b7{
+    font-size: 20px;
+    color: rgb(44, 43, 43);
+    margin-left: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.b8{
+    font-size: 20px;
+    color: rgb(136, 3, 3);
+    margin-left: 30px;
+    margin-top: 15px;
+    width: 150px;
+    height: 50px;
+    border-radius: 30px;
+    border-color: rgb(136, 3, 3);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+.b9{
+    position: absolute;
+    top: 20px;
+    left: 920px;
+    width: 300px;
+}
+.b10{
+    position: absolute;
+    top: 4500px;
+    left: 0px;
+    width: 1519px;
+    height: 600px;
+    background-color: rgb(42, 10, 1);
+}
+.b11{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 10px;
+    left: 70px;
+    color:lightgoldenrodyellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.b12{
+    display: block;
+}
+.b13{
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    top: 50px;
+    line-height: 30px;
+    left: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.b14{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 10px;
+    left: 390px;
+    color:lightgoldenrodyellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.b15{
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    top: 50px;
+    line-height: 30px;
+    left: 350px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.b16{
+    display: block;
+}
+
+.b17{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 10px;
+    left: 800px;
+    color:lightgoldenrodyellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.b18{
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    top: 50px;
+    line-height: 30px;
+    left: 760px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.b19{
+    display: block;
+}
+.b20{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 10px;
+    left: 1150px;
+    color:lightgoldenrodyellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.b21{
+    color: white;
+    font-size: 18px;
+    position: absolute;
+    top: 50px;
+    line-height: 30px;
+    left: 1110px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.b22{
+    display: block;
+}
+.b23{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 420px;
+    left: 70px;
+    color:lightgoldenrodyellow;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.b24{
+position: absolute;
+top: 500px;
+left: 70px;
+width: 1290px;
+}
+.b25{
+    position: absolute;
+    top: 440px;
+    left: 200px;
+    width: 30px;
+}
+.b26{
+    position: absolute;
+    top: 437px;
+    left: 250px;
+    width: 37px;
+}
+.b27{
+    position: absolute;
+    top: 415px;
+    left: 270px;
+    width: 110px;
+}
+
+
+
+
+
+
+
+
+
+
